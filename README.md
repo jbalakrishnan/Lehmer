@@ -12,4 +12,5 @@ The folder newforms has several files:
  * The file F2.gp has the list of pairs (2m, F_{2m}) for m = 1,...,98, used in Section 4 of [BCOT]. 
  * The file thue_unconditional.gp has the code used in Lemma 4.1 of [BCOT].
  * The file thue_conditional.gp has the code used in Lemma 4.1 of [BCOT].
- * More to come!
+ * The file chabauty.sage has the code used in Lemma 4.5 of [BCOT].
+ * The file H-plus-minus.sage has the code used to populate Table 8 of [BCOT].
