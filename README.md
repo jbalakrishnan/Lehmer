@@ -1,8 +1,8 @@
 SageMath and PARI/GP code for 
 
  * [BCO] ``Variations of Lehmer's conjecture for Ramanujan's tau-function'' (Jennifer S. Balakrishnan, William Craig, and Ken Ono)
-and
  * [BCOT] ``Variants of Lehmer's speculation for newforms'' (Jennifer S. Balakrishnan, William Craig, Ken Ono, and Wei-Lun Tsai) 
+ * [BCT] ``Even values of Ramanujan's tau-function'' (Jennifer S. Balakrishnan, Ken Ono, and Wei-Lun Tsai)
 
 The folder tau has three files:
  * The file chabauty.sage has the code used in Lemma 2.3 of [BCO]. The two curves the code was run on are at the end of the file.
@@ -14,3 +14,8 @@ The folder newforms has several files:
  * The file thue_conditional.gp has the code used in Lemma 4.1 of [BCOT].
  * The file chabauty.sage has the code used in Lemma 4.5 of [BCOT].
  * The file H-plus-minus.sage has the code used to populate Table 8 of [BCOT].
+ 
+ The folder even has several files:
+  * The file
+  * The file chabauty.sage has the code used in Lemma 3.4 of [BCT].
+
