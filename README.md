@@ -2,7 +2,7 @@ SageMath and PARI/GP code for
 
  * [BCO] ``Variations of Lehmer's conjecture for Ramanujan's tau-function'' (Jennifer S. Balakrishnan, William Craig, and Ken Ono)
  * [BCOT] ``Variants of Lehmer's speculation for newforms'' (Jennifer S. Balakrishnan, William Craig, Ken Ono, and Wei-Lun Tsai) 
- * [BCT] ``Even values of Ramanujan's tau-function'' (Jennifer S. Balakrishnan, Ken Ono, and Wei-Lun Tsai, with an appendix by Matthew Bisatt)
+ * [BOT] ``Even values of Ramanujan's tau-function'' (Jennifer S. Balakrishnan, Ken Ono, and Wei-Lun Tsai, with an appendix by Matthew Bisatt)
 
 The folder tau has three files:
  * The file chabauty.sage has the code used in Lemma 2.3 of [BCO]. The two curves the code was run on are at the end of the file.
