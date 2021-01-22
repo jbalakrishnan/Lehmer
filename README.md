@@ -15,7 +15,7 @@ The folder newforms has several files:
  * The file chabauty.sage has the code used in Lemma 4.5 of [BCOT].
  * The file H-plus-minus.sage has the code used to populate Table 8 of [BCOT].
  
- The folder even has several files:
-  * The file
+ The folder even has two files:
+  * The file Hyperelliptic_H.sage has the code used in Lemma 3.3 and the Examples of [BCT].
   * The file chabauty.sage has the code used in Lemma 3.4 of [BCT].
 
