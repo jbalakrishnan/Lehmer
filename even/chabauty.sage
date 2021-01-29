@@ -103,7 +103,3 @@ X = HyperellipticCurve(x^11-4*41^2*5^10)  #genus 5 rank 0
 print X
 effective_chabauty(X, [], 3, 50)
 
-print 20*"="
-X = HyperellipticCurve(x^11-4*61^2*5^10)  #genus 5 rank 0
-print X
-effective_chabauty(X, [], 3, 50)
